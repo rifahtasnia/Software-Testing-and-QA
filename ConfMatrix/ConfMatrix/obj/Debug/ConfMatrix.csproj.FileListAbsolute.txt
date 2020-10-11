@@ -36,3 +36,17 @@ G:\3-2\Software Testing & QA\ConfMatrix\ConfMatrix\bin\Debug\nunit.framework.dll
 G:\3-2\Software Testing & QA\ConfMatrix\ConfMatrix\bin\Debug\nunit.framework.pdb
 G:\3-2\Software Testing & QA\ConfMatrix\ConfMatrix\bin\Debug\nunit.framework.xml
 G:\3-2\Software Testing & QA\ConfMatrix\ConfMatrix\obj\Debug\ConfMatrix.csproj.CopyComplete
+G:\3-2\Software Testing & QA\Software Testing and QA Lab\ConfMatrix\ConfMatrix\bin\Debug\ConfMatrix.exe.config
+G:\3-2\Software Testing & QA\Software Testing and QA Lab\ConfMatrix\ConfMatrix\bin\Debug\ConfMatrix.exe
+G:\3-2\Software Testing & QA\Software Testing and QA Lab\ConfMatrix\ConfMatrix\bin\Debug\ConfMatrix.pdb
+G:\3-2\Software Testing & QA\Software Testing and QA Lab\ConfMatrix\ConfMatrix\bin\Debug\nunit.framework.dll
+G:\3-2\Software Testing & QA\Software Testing and QA Lab\ConfMatrix\ConfMatrix\bin\Debug\nunit.framework.pdb
+G:\3-2\Software Testing & QA\Software Testing and QA Lab\ConfMatrix\ConfMatrix\bin\Debug\nunit.framework.xml
+G:\3-2\Software Testing & QA\Software Testing and QA Lab\ConfMatrix\ConfMatrix\obj\Debug\ConfMatrix.csprojAssemblyReference.cache
+G:\3-2\Software Testing & QA\Software Testing and QA Lab\ConfMatrix\ConfMatrix\obj\Debug\ConfMatrix.ConfMat.resources
+G:\3-2\Software Testing & QA\Software Testing and QA Lab\ConfMatrix\ConfMatrix\obj\Debug\ConfMatrix.Properties.Resources.resources
+G:\3-2\Software Testing & QA\Software Testing and QA Lab\ConfMatrix\ConfMatrix\obj\Debug\ConfMatrix.csproj.GenerateResource.cache
+G:\3-2\Software Testing & QA\Software Testing and QA Lab\ConfMatrix\ConfMatrix\obj\Debug\ConfMatrix.csproj.CoreCompileInputs.cache
+G:\3-2\Software Testing & QA\Software Testing and QA Lab\ConfMatrix\ConfMatrix\obj\Debug\ConfMatrix.csproj.CopyComplete
+G:\3-2\Software Testing & QA\Software Testing and QA Lab\ConfMatrix\ConfMatrix\obj\Debug\ConfMatrix.exe
+G:\3-2\Software Testing & QA\Software Testing and QA Lab\ConfMatrix\ConfMatrix\obj\Debug\ConfMatrix.pdb
